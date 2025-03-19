@@ -12,8 +12,7 @@ Your task is to figure out what's wrong and to improve idempotency support in
 this library.
 
 You may use outside resources like Google and may also ask questions of
-your interviewer. Please don't look in the production acme-go code though,
-that might give away the answer too quickly!
+your interviewer.
 
 You can run tests with this command:
 
