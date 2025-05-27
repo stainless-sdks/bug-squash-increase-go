@@ -3,5 +3,10 @@
 {
   "name": "Go Bug Squash Development",
   "image": "mcr.microsoft.com/devcontainers/go:1.23-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20"
+    }
+  },
   "postCreateCommand": "go mod tidy"
 }
